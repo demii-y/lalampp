@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+PyPDF2
+typing-extensions
+python-dotenv
+
+# Optional (only for RAG extraction)
+langchain
+openai
+faiss-cpu
